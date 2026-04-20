@@ -87,6 +87,9 @@ This project presents an interactive Power BI dashboard analyzing Netflix movies
 
 ---
 
+📌 Conclusion
+
+This project highlights how data visualization can uncover valuable insights into content strategy. Netflix's focus on movies, mature audiences, and global expansion is clearly reflected through the dashboard.
 
 
 
