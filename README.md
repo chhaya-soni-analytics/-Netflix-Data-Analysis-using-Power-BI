@@ -1,8 +1,8 @@
-# 📊 Netflix Data Analysis Dashboard (Power BI)
+# 📊 Netflix Data Analysis Dashboard 
 
 ## 📌 Overview
 
-This project presents an interactive Power BI dashboard analyzing Netflix movies and TV shows. It provides insights into content distribution, ratings, genres, and trends over time.
+This project presents an interactive Tableau dashboard analyzing Netflix movies and TV shows. It provides insights into content distribution, ratings, genres, and trends over time.
 
 ---
 
@@ -58,9 +58,10 @@ This project presents an interactive Power BI dashboard analyzing Netflix movies
 
 ## 🛠 Tools & Technologies
 
-* Power BI
-* Power Query
+* Tableau
+* Calculated Field
 * Data Visualization
+* Parameter
 
 ---
 
